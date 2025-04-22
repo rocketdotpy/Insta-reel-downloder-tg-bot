@@ -33,8 +33,8 @@ https://www.instagram.com/reel/CrK3JXyJQ5X/
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/instagram-reel-downloader-bot.git
-cd instagram-reel-downloader-bot
+git clone https://github.com/harshdotpy/Insta-reel-downloder-tg-bot.git
+cd Insta-reel-downloder-tg-bot
 pip install -r requirements.txt
 ```
 
